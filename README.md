@@ -1,0 +1,2 @@
+# mydome
+a javascript project
